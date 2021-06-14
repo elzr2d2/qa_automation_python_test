@@ -12,5 +12,5 @@ with.
 
 ### Frameworks and Programs:
 * PyCharm
-* Postman
+* Postman (for checking results manually)
 * PyTest wrapped with Unittest as a suite controller
