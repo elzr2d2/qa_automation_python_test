@@ -1,4 +1,4 @@
-# qa_automation_python_test
+# QA Automation Python Test
 
 ## Task 1 - Magic List
 Create a Python class that implements a simplified list by skipping boundary checks when possible.
