@@ -6,7 +6,7 @@
 ### Frameworks and Programs:
 * PyCharm
 
-For implementing the class, the class I wrote is returning a list with an None inside and by that the MagicList has been created seemingly empty.
+For implementing the class, the class I wrote is returning a list with an None inside and by that it passed the exceptions of a regular list.
 
 
 ## Task 2 - API Testing
