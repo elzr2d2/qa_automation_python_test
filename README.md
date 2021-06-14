@@ -3,6 +3,8 @@
 ## Task 1 - Magic List
 Created a Python class that implements a simplified list by skipping boundary checks.
 
+For implementing the class, the class I wrote is returning a list with an None inside and by that the MagicList has been created seemingly empty.
+
 ### Frameworks and Programs:
 * PyCharm
 
